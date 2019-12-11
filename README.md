@@ -8,7 +8,7 @@ This interactive program leverages ChucK's built in analog-to-digital converter 
 
 ---
 # How it works
-By recursively analyzing the amplitude analog input signal the program is able to discern the number of times an individual claps.
+By recursively analyzing the amplitude of the analog input signal, the program is able to discern the number of times an individual claps.
 This in turn allows the program to be interactively controlled based on the number claps it detects.  
 
 ---
